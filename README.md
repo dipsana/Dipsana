@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Dipsana
+# 👋 Hi, I’m Dipsana
 
 - 👨‍💻 I’m a 3rd year B.Tech CSE student who loves technology and learning new things!
 - 👀 I’m interested in game development, web development, and building a custom OS someday 🌌
