@@ -20,7 +20,9 @@ Hey there! I'm @Dipsana, a passionate B.Tech CSE student on a mission to bring j
 `Java` | `HTML/CSS/JS` | `C` | `PL/SQL` | `DSA(C)` | `React (coming soon)`  
 
 ## 📫 Connect with me:
- >[LinkedIn](https://www.linkedin.com/in/dipsana)
+
+ - GitHub Projects: [@Dipsana](https://github.com/DipsanaRoy)
+- [LinkedIn](https://www.linkedin.com/in/dipsana)
 
 ---
 
