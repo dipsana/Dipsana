@@ -1,19 +1,32 @@
-# 🚀 Welcome to My Project Space!
 
-Hey there! I'm @Dipsana, a passionate B.Tech CSE student with a goal to bring justice to the tech world through innovation 💡
+---
 
-- 🔨 This repo showcases my personal and academic projects
-- 💡 I enjoy solving real-world problems through code and logic
-- 🌱 Currently working on web-based apps and Java projects
-- 🎮 Dreaming of developing meaningful games someday
-- 🤝 I’m open to collaborating on projects that involve Web Dev, Java, or anything exciting!
+🚀 Welcome to My Project Space!
 
-🛠️ Tech Stack I love:
-`Java` | `HTML/CSS/JS` | `C` | `PL/SQL` | `Tailwind` | `React (coming soon)`  
+Hey there! I'm @Dipsana, a passionate B.Tech CSE student on a mission to bring justice to the tech world through innovation.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dipsana)
+🔨 Showcasing my personal and academic projects
+
+💡 Love solving real-world problems through code and logic
+
+🌱 Currently working on web-based apps and Java projects
+
+🎮 Dreaming of developing meaningful games someday
+
+🤝 Open to collaborating on Web Dev, Java, or anything exciting!
+
+
+🛠️ Tech Stack I Love:
+
+Java | HTML/CSS/JS | C | PL/SQL | Tailwind | React (coming soon)
+
+📫 Connect with me:
+
+LinkedIn
 
 > "Code with purpose. Build with passion." 🔧💖
+
+---
 
 <!---
 Dipsana/Dipsana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
