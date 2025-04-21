@@ -1,30 +1,26 @@
 
 ---
 
-🚀 Welcome to My Project Space!
+# 🚀 Welcome to My Project Space!
 
 Hey there! I'm @Dipsana, a passionate B.Tech CSE student on a mission to bring justice to the tech world through innovation.
 
-🔨 Showcasing my personal and academic projects
+- 🔨 Showcasing my personal and academic projects
 
-💡 Love solving real-world problems through code and logic
+- 💡 Love solving real-world problems through code and logic
 
-🌱 Currently working on web-based apps and Java projects
+- 🌱 Currently working on web-based apps and Java projects
 
-🎮 Dreaming of developing meaningful games someday
+- 🎮 Dreaming of developing meaningful games someday
 
-🤝 Open to collaborating on Web Dev, Java, or anything exciting!
+- 🤝 Open to collaborating on Web Dev, Java, or anything exciting!
 
 
-🛠️ Tech Stack I Love:
+🛠️ Tech Stack I love:
+`Java` | `HTML/CSS/JS` | `C` | `PL/SQL` | `DSA(C)` | `React (coming soon)`  
 
-Java | HTML/CSS/JS | C | PL/SQL | Tailwind | React (coming soon)
-
-📫 Connect with me:
-
-LinkedIn
-
-> "Code with purpose. Build with passion." 🔧💖
+📫 Connect with me on
+ >[LinkedIn](https://www.linkedin.com/in/dipsana)
 
 ---
 
