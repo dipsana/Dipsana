@@ -16,10 +16,10 @@ Hey there! I'm @Dipsana, a passionate B.Tech CSE student on a mission to bring j
 - 🤝 Open to collaborating on Web Dev, Java, or anything exciting!
 
 
-🛠️ Tech Stack I love:
+## 🛠️ Tech Stack I love:
 `Java` | `HTML/CSS/JS` | `C` | `PL/SQL` | `DSA(C)` | `React (coming soon)`  
 
-📫 Connect with me on
+## 📫 Connect with me:
  >[LinkedIn](https://www.linkedin.com/in/dipsana)
 
 ---
