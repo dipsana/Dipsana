@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Project Space!
 
-Hey there! I'm Dipsana, a passionate B.Tech CSE student with a goal to bring justice to the tech world through innovation 💡
+Hey there! I'm @Dipsana, a passionate B.Tech CSE student with a goal to bring justice to the tech world through innovation 💡
 
 - 🔨 This repo showcases my personal and academic projects
 - 💡 I enjoy solving real-world problems through code and logic
