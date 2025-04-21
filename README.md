@@ -21,7 +21,7 @@ Hey there! I'm @Dipsana, a passionate B.Tech CSE student on a mission to bring j
 
 ## 📫 Connect with me:
 
- - GitHub Projects: [@Dipsana](https://github.com/DipsanaRoy)
+ - GitHub Learning: [@DipsanaRoy](https://github.com/DipsanaRoy)
 - [LinkedIn](https://www.linkedin.com/in/dipsana)
 
 ---
