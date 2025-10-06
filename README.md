@@ -3,7 +3,7 @@
 
 # 🚀 Welcome to My Project Space!
 
-Hey there! I'm @Dipsana, a passionate B.Tech CSE student on a mission to bring justice to the tech world through innovation.
+Hey there! I'm @dipsana, a passionate B.Tech CSE student on a mission to bring justice to the tech world through innovation.
 
 - 🔨 Showcasing my personal and academic projects
 
