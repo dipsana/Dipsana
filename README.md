@@ -1,6 +1,3 @@
-
----
-
 # 🚀 Welcome to My Project Space!
 
 Hey there! I'm @dipsana, a passionate B.Tech CSE student on a mission to bring justice to the tech world through innovation.
@@ -25,6 +22,11 @@ Hey there! I'm @dipsana, a passionate B.Tech CSE student on a mission to bring j
 - [LinkedIn](https://www.linkedin.com/in/dipsana)
 
 ---
+
+🚀 Just launched my portfolio! | Frontend Developer | HTML • CSS • JavaScript • C/C++
+Exploring the intersection of design and code ✨
+
+📫 Check out my work: [https://dipsana.github.io/portfolio/](https://dipsana.github.io/portfolio/)
 
 <!---
 Dipsana/Dipsana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
